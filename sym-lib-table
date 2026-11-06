@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "zuluscsi-rescue")(type "KiCad")(uri "${KIPRJMOD}/kicad_libs/ZuluSCSI_Blaster_Ultra_Lite.kicad_sym")(options "")(descr ""))
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/kicad_libs/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.kicad_sym")(options "")(descr ""))
+  (lib (name "MCP23009-E_MG")(type "KiCad")(uri "${KIPRJMOD}/kicad_libs/MCP23009-E_MG.kicad_sym")(options "")(descr ""))
+  (lib (name "zuluscsi")(type "KiCad")(uri "${KIPRJMOD}/kicad_libs/ZuluSCSI_Blaster_Ultra_Lite.kicad_sym")(options "")(descr ""))
+  (lib (name "EasyEDA")(type "KiCad")(uri "${KIPRJMOD}/EasyEDA.kicad_sym")(options "")(descr ""))
+)
