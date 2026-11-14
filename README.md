@@ -1,13 +1,13 @@
 ZuluSCSI® Blaster Ultra Lite OSHW
 ================
 
-This repository contains the KiCAD 10 schematic and PCB design files for an Open Source Hardware variant of the RP2350B-based ZuluSCSI® Blaster 
+This repository contains the KiCAD 10 schematic and PCB design files for a value-engineered Open Source Hardware variant of the RP2350B-based [ZuluSCSI® Blaster]((https://shop.rabbitholecomputing.com/products/zuluscsi-blaster)
 
-ZuluSCSI® Ultra Lite OSHW is the worlds first* **_open-source**_ [OSHWA-certified](https://certification.oshwa.org/us002873.html) _Ultra_ SCSI emulator, an open-source alternative to our commercially available ZuluSCSI Blaster, designed with cost efficiency in mind.
+ZuluSCSI® Ultra Lite OSHW is the worlds first* *_open-source*_ [OSHWA-certified](https://certification.oshwa.org/us002873.html) narrow _Ultra_ SCSI emulator.
 
-ZuluSCSI® Blaster Ultra Lite runs unmodified [ZuluSCSI Blaster firmware](https://github.com/ZuluSCSI/ZuluSCSI-firmware/releases)
+ZuluSCSI® Blaster Ultra Lite runs unmodified [ZuluSCSI Blaster firmware](https://github.com/ZuluSCSI/ZuluSCSI-firmware/releases). Pre-prepared gerbers and BoM files are available in [the release section](https://github.com/ZuluSCSI/ZuluSCSI-Blaster-Ultra-Lite-OSHW/releases/tag/Rev2026b)
 
-Pre-prepared gerbers and BoM files are available in [the release section](https://github.com/ZuluSCSI/ZuluSCSI-Blaster-Ultra-Lite-OSHW/releases/tag/Rev2026b)
+*That we know of :)
 
 License
 ----------------------------
@@ -18,6 +18,6 @@ ZuluSCSI® is a registered trademark of Rabbit Hole Computing, and may not be us
 
 _Any_ use of the ZuluSCSI® [registered trademark](https://tmsearch.uspto.gov/search/search-results/97574699) in a **commercial** context requires **prior written consent from Rabbit Hole Computing.**
 
-<img alt="ZuluSCSI Blaster Ultra Lite OSHW" src="https://github.com/user-attachments/assets/ef38eafc-42c3-43a8-995f-4d4d6fc45db7" />
-
-*That we know of :)
+<a href="https://github.com/user-attachments/assets/ef38eafc-42c3-43a8-995f-4d4d6fc45db7" />
+<img height="768" alt="ZuluSCSI Blaster Ultra Lite OSHW" src="https://github.com/user-attachments/assets/ef38eafc-42c3-43a8-995f-4d4d6fc45db7" />
+</a>
