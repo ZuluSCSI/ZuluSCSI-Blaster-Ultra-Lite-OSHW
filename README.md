@@ -1,11 +1,11 @@
-ZuluSCSI Blaster Ultra Lite OSHW
+ZuluSCSI® Blaster Ultra Lite OSHW
 ================
 
 This repository contains the KiCAD 10 schematic and PCB design files for an Open Source Hardware variant of the RP2350B-based ZuluSCSI® Blaster 
 
-ZuluSCSI® Ultra Lite OSHW is the worlds first* **_open-source**_  _Ultra_ SCSI emulator, an open-source alternative to our commercially available ZuluSCSI Blaster, designed with cost efficiency in mind.
+ZuluSCSI® Ultra Lite OSHW is the worlds first* **_open-source**_ [OSHWA-certified](https://certification.oshwa.org/us002873.html) _Ultra_ SCSI emulator, an open-source alternative to our commercially available ZuluSCSI Blaster, designed with cost efficiency in mind.
 
-ZuluSCSI® Blaster Ultra Lite runs unmodified [ZuluSCSI Blaster firmware](https://github.com/ZuluSCSI/ZuluSCSI-firmware/releases).
+ZuluSCSI® Blaster Ultra Lite runs unmodified [ZuluSCSI Blaster firmware](https://github.com/ZuluSCSI/ZuluSCSI-firmware/releases)
 
 Pre-prepared gerbers and BoM files are available in [the release section](https://github.com/ZuluSCSI/ZuluSCSI-Blaster-Ultra-Lite-OSHW/releases/tag/Rev2026b)
 
